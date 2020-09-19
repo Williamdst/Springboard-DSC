@@ -1,0 +1,3 @@
+[submodule "DataScienceGuidedCapstone"]
+	path = DataScienceGuidedCapstone
+	url = https://github.com/Williamdst/DataScienceGuidedCapstone.git
