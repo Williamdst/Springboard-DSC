@@ -44,7 +44,7 @@ SELECT *
 
 SELECT COUNT(*) 
   FROM Facilities
- WHERE membercost > 0
+ WHERE membercost = 0
  
 /* Q3: Write an SQL query to show a list of facilities that charge a fee to members,
 where the fee is less than 20% of the facility's monthly maintenance cost.
@@ -70,9 +70,9 @@ in question. */
 
 SELECT name, monthlymaintenance,
   CASE 
-	  WHEN monthlymaintenance > 100 THEN 'expensive'
-	  ELSE 'cheap' 
-      END AS facetype	
+	   WHEN monthlymaintenance > 100 THEN 'expensive'
+	   ELSE 'cheap' 
+       END AS facetype	
  FROM Facilities
  
 
@@ -96,12 +96,12 @@ SELECT DISTINCT CONCAT(f.name,' ' ,m.surname,' ', m.firstname)
 	AS Court_Bookings
   FROM Bookings as b
 
- INNER JOIN Members as m
-	ON b.memid = m.memid
+	   INNER JOIN Members as m
+	   ON b.memid = m.memid
 
- INNER JOIN Facilities as f
-    ON b.facid = f.facid
-   AND f.facid IN (0,1)
+	   INNER JOIN Facilities as f
+       ON b.facid = f.facid
+          AND f.facid IN (0,1)
 
  ORDER BY m.surname
 
@@ -113,28 +113,52 @@ the guest user's ID is always 0. Include in your output the name of the
 facility, the name of the member formatted as a single column, and the cost.
 Order by descending cost, and do not use any subqueries. */
 
---I need to filter the bookings by day (probably using datetimes. Then group the bookings by the member id and add up the costs (price * slot). Filter the ones that will cost over $30. The query below only gets me the prices for their individual sessions. Whereas I need their total cost for the day. 
-
+--I need to filter the bookings by day (probably using datetimes. Then group the bookings by the member id and add up the costs (price * slot). Filter the ones that will cost over $30.
 SELECT name, CONCAT(surname,' ', firstname) AS fullname,
   CASE 
-	  WHEN memid > 0 THEN slots * membercost
-      ELSE slots * guestcost
-	  END AS price
+	   WHEN memid > 0 THEN slots * membercost
+       ELSE slots * guestcost
+	   END AS price
  FROM Bookings as b
 
-INNER JOIN Members as m
-USING (memid)
+	   INNER JOIN Members as m
+	   USING (memid)
 
-INNER JOIN Facilities
-USING (facid)
+	   INNER JOIN Facilities
+	   USING (facid)
 
 WHERE DATE(starttime) = '2012-09-14'
-
-
+  AND (CASE 
+			WHEN memid > 0 THEN slots * membercost
+			ELSE slots * guestcost
+			END) > 30
+			
+ORDER BY price DESC
 
 
 /* Q9: This time, produce the same result as in Q8, but using a subquery. */
 
+SELECT name, fullname, price
+  FROM 
+	   (SELECT starttime, name, CONCAT(surname,' ', firstname) AS fullname,
+			   CASE 
+				    WHEN memid > 0 THEN slots * membercost
+				    ELSE slots * guestcost
+				    END AS price
+	      FROM Bookings as b
+
+			   INNER JOIN Members as m
+		       USING (memid)
+
+		       INNER JOIN Facilities
+		       USING (facid)
+
+	    ) AS booking_total
+
+ WHERE DATE(starttime) = '2012-09-14'
+   AND price > 30
+ 
+ ORDER BY price DESC
 
 /* PART 2: SQLite
 
@@ -146,34 +170,71 @@ QUESTIONS:
 The output of facility name and total revenue, sorted by revenue. Remember
 that there's a different cost for guests and members! */
 
-SELECT name, SUM(price) AS revenue
-  FROM (SELECT bookid, name, memid,
-  		  CASE 
-	   		  WHEN memid > 0 THEN membercost * slots
-	   	      ELSE guestcost * slots 
-	          END AS price	
- 
-  		  FROM Bookings
-		 INNER JOIN Facilities
- 		 USING (facid)
-       
-       )AS booking_price
-
-GROUP BY name
-HAVING revenue < 1000
-ORDER BY revenue DESC
-
 --I need to calculate the cost of each session for each facility and then add up all the costs.
+
+SELECT name AS Facility, SUM(price) AS Revenue
+  FROM 
+	   (SELECT bookid, name, memid,
+		  CASE 
+			   WHEN memid > 0 THEN membercost * slots
+			   ELSE guestcost * slots 
+			   END AS price	
+ 
+		  FROM Bookings
+			   INNER JOIN Facilities
+			   USING (facid)
+                       
+		) AS booking_price
+
+ GROUP BY name
+HAVING revenue < 1000
+ ORDER BY revenue DESC
+
 
 /* Q11: Produce a report of members and who recommended them in alphabetic surname,firstname order */
 
 --I need to joing the table with itself where each member also has the information of the member that recommended him. 
 
+SELECT m1.surname, m1.firstname, 
+	   COALESCE(m2.surname, ' '), COALESCE(m2.firstname, ' ')
+  FROM Members as m1
+	   LEFT JOIN (SELECT * FROM Members WHERE memid > 0) as m2
+	   ON m1.recommendedby = m2.memid
+
+ WHERE m1.memid > 0
+ ORDER BY m1.surname
+
 
 /* Q12: Find the facilities with their usage by member, but not guests */
 
-
-
+SELECT fullname AS 'Member', name, 
+	   SUM(slots) AS 'Usage'
+  FROM 
+	   (SELECT (surname || ' '|| firstname) AS fullname, name, slots
+		  FROM Bookings
+			   LEFT JOIN Facilities
+			   USING (facid)
+ 
+			   INNER JOIN (SELECT * FROM Members WHERE memid > 0) AS members_only
+			   USING (memid)
+                       
+	    ) AS member_data
+ 
+ GROUP BY fullname, name
+		 
 /* Q13: Find the facilities usage by month, but not guests */
 
 --Count how many times a facility was used (1 slot counts as 1) from the bookings and filter only if the memid is > 0. And group by month
+
+SELECT name AS 'Facility', Month, 
+	   SUM(slots) AS 'Usage'
+  FROM 
+	   (SELECT name, slots, strftime('%m', starttime) AS Month
+		  FROM Bookings
+			   LEFT JOIN Facilities
+			   USING (facid)
+                 
+		 WHERE memid > 0
+	    ) AS month_extract
+               
+ GROUP BY name, Month
