@@ -1,0 +1,4 @@
+export SPARK_HOME="/Users/danielsullivan/spark"
+export PATH=$SPARK_HOME/bin:$PATH
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
