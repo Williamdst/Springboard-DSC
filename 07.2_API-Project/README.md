@@ -1,6 +1,6 @@
 <h2> API Mini Project - <i>APIs & The Python Standard Library</i> </h2>
-This mini project focused on equities data from the Frankfurt Stock Exhange (FSE) on the Quandl platform. Specifically a company called Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery. To get the data, APIs were introduced and I was shown how you can leverage a platforms API to get data. Additionally, the heavy lifting that Pandas does was stripped away and everything was done only using the Python Standard Library and its native data structures. Some sample questions asked were:
-
+This mini project focused on equities data from the Frankfurt Stock Exhange (FSE) on the Quandl platform. Specifically a company called Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery. To get the data, APIs were introduced and I was shown how you can leverage a platforms API to get data. Additionally, the heavy lifting that Pandas does was stripped away and everything was done only using the Python Standard Library and its native data structures. Some sample questions asked were: 
+<br />
 <ul>
   <li> Calculate what the highest and lowest opening prices were for the stock in this period.
   <li> What was the largest change in any one day (based on High and Low price)?
