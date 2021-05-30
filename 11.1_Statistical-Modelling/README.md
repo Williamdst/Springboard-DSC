@@ -1,5 +1,6 @@
-<h2> Statistical Modeling - <i> </i> </h2>
-
+<h2> Statistical Modeling - <i>Python Statistics Essential Training </i> </h2>
+<h3> Introduction to Statistical Inference </h3>
+<h3> Introduction to Statistical Modeling </h3>
 
 
 <h2> Reflection </h2>
