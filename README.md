@@ -8,6 +8,9 @@ September 2020 Cohort
   <li> <b>API Mini Project </b> - <i>APIs & The Python Standard Library</i> <br /> Description </li>
   
   <li> <b>SQL Country Club</b> - <i> Relational Databases & SQL </i> <br /> Description </li>
+  
+  <li> <b>Frequentist Inference</b> - <i> Statistical Inference in Python</i> <br /> Description </li>
+
 
 
    
