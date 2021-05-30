@@ -1,4 +1,4 @@
-<h2> <i>Logistic Regression</i> </h2>
+<h2>Logistic Regression - <i>Intro to Classification</i> </h2>
 
 
 
