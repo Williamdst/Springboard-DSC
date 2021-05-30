@@ -8,3 +8,7 @@ Some questions had to be answered by integrating the connection and the query in
 </ul>
 
 <h2> Reflection </h2>
+<ol>
+  <li> Being that relational databases are the main way data is stored I want to do a deeper dive into understanding them and getting better at quering them using SQL.</li>
+  <li> The format on SQL queries can get out of hand and hard to read, so I want to learn how to properly format the queries for readibility. </li>
+</ol>
