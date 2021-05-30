@@ -1,4 +1,4 @@
-<h2> Red Wine Linear Regression - <i> </i> </h2>
+<h2> The Red Wine Dataset - <i>Linear Regression</i> </h2>
 The aim is to use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible. The core purpose of this case study was to see how linear regression can be implemented in python using both Scikit and Statsmodels packages as well as how to evaluate those models after the fact. The four modles that were built were:
 <ul>
   <li> Univariate Linear Regression (<i>SciKit</i>) </li>
