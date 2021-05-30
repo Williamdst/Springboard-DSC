@@ -1,6 +1,4 @@
-# Springboard-DSC
-Denzel Williams 
-Sprinboard Data Science Career Track 
+<h2>Springboard Data Science Bootcamp - <i>Business Intelligence Specialization</i></h2>
 September 2020 Cohort
 
 <h2> Table of Contents </h2>
