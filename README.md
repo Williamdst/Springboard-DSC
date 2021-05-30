@@ -12,6 +12,9 @@ September 2020 Cohort
   <li> <b>Frequentist Inference</b> - <i> Statistical Inference in Python</i> <br /> Description </li>
    
   <li> <b>Statistical Modeling</b> - <i> Python Statistics Essential Training </i> <br /> Description </li>
+  
+  <li> <b>App Store Integration</b> - <i>Hypothesis Testing in Python </i> <br /> Description </li>
+
 
 
 
