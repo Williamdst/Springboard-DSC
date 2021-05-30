@@ -10,6 +10,9 @@ September 2020 Cohort
   <li> <b>SQL Country Club</b> - <i> Relational Databases & SQL </i> <br /> Description </li>
   
   <li> <b>Frequentist Inference</b> - <i> Statistical Inference in Python</i> <br /> Description </li>
+   
+  <li> <b>Statistical Modeling</b> - <i> </i> <br /> Description </li>
+
 
 
 
