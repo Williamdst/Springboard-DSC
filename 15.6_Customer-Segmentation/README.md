@@ -3,5 +3,6 @@ This case study invovled a wine retailer and the data generate from different ma
 
 <h2>Reflection</h2>
 <ol>
-  <li>
+  <li> There are a lot of clustering algorithms and something that I want to be able to do is know which clusteting algorithm would work best for the data I am working with. Being able to do this will probably require me to look under the hood of the algorithms and dive deep into the mathematics behind them.
+  <li> One clustering algorithm that I am drawn to is the Mean Shift algorithm, because you don't need to know how many clusters to use beforehand and you really only need to tune the bandwidth parameter. I can see myself using this algorithm in the future as an exploratory tool. 
 </ol>
