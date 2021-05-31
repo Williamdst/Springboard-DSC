@@ -22,6 +22,9 @@ September 2020 Cohort
   <li> <b>Coffee Diner Horizontal Expansion</b> - <i>Decision Trees</i> <br /> Description </li>
   
   <li> <b>COVID-19</b> - <i>Ensemble Methods: Random Forests (Bagging)</i> <br /> Description </li>
+  
+  <li> <b>The Titanic Dataset</b> - <i>Ensemble Methods: Gradient Boosting (Boosting)</i> <br /> Description </li>
+
 
 
 
