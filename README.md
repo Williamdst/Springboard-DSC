@@ -18,6 +18,8 @@ September 2020 Cohort
   <li> <b>The Red Wine Dataset</b> - <i>Linear Regression</i> <br /> Description </li>
   
   <li> <b>Logistic Regression</b> - <i>Introduction to Classification</i> <br /> Description </li>
+  
+  <li> <b>Coffee Diner Horizontal Expansion</b> - <i>Decision Trees</i> <br /> Description </li>
 
 
 
