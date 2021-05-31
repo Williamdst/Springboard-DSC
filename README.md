@@ -28,6 +28,8 @@ September 2020 Cohort
   <li> <b>Manhattan & Euclidean Distances</b> - <i>Application of Distance Measures I</i> <br /> Description </li>
   
   <li> <b>Cosine Similarity</b> - <i>Application of Distance Measures II</i> <br /> Description </li>
+  
+  <li> <b>Wine Customer Segmentation</b> - <i>Clustering</i> <br /> Description </li>
 
 
 
