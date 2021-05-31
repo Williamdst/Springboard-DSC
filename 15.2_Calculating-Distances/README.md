@@ -1,4 +1,4 @@
-<h2>Manhattan & Euclidean Distances - <i>Application of Distance Measures</i></h2>
+<h2>Manhattan & Euclidean Distances - <i>Application of Distance Measures I</i></h2>
 In this mini project I saw examples and comparisons of distance measures. I visually and analytically compared the Euclidean distance to the Manhattan distance.
 
 
