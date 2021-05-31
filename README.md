@@ -20,6 +20,9 @@ September 2020 Cohort
   <li> <b>Logistic Regression</b> - <i>Introduction to Classification</i> <br /> Description </li>
   
   <li> <b>Coffee Diner Horizontal Expansion</b> - <i>Decision Trees</i> <br /> Description </li>
+  
+  <li> <b>COVID-19</b> - <i>Ensemble Methods: Random Forests (Bagging)</i> <br /> Description </li>
+
 
 
 
