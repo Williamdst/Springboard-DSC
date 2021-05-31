@@ -16,6 +16,9 @@ September 2020 Cohort
   <li> <b>App Store Integration</b> - <i>Hypothesis Testing in Python</i> <br /> Description </li>
   
   <li> <b>The Red Wine Dataset</b> - <i>Linear Regression</i> <br /> Description </li>
+  
+  <li> <b>Logistic Regression</b> - <i>Introduction to Classification</i> <br /> Description </li>
+
 
 
 
