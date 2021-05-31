@@ -24,6 +24,8 @@ September 2020 Cohort
   <li> <b>COVID-19</b> - <i>Ensemble Methods: Random Forests (Bagging)</i> <br /> Description </li>
   
   <li> <b>The Titanic Dataset</b> - <i>Ensemble Methods: Gradient Boosting (Boosting)</i> <br /> Description </li>
+  
+  <li> <b>Manhattan & Euclidean Distances</b> - <i>Application of Distance Measures</i> <br /> Description </li>
 
 
 
