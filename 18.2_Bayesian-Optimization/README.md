@@ -6,5 +6,5 @@ In addition to the random search and the grid search methods for selecting optim
 
 <h2>Reflection</h2>
 <ol>
-  <li>
+  <li> Bayesian Optimization seems to be a very eficient way of hyperparameter tuning models. Bayesian Optimization and LightGBM together are a pretty overpowered combination. Although they are powerful tools, as a Data Scientist it is still important to know when to use them versus other models and hyperparameter tuning methods. 
 </ol>
