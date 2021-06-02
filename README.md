@@ -38,6 +38,9 @@ September 2020 Cohort
   <li> <b>Flight Departures Dataset</b> - <i>Model Optimization II: Bayesian Optimization - LightGBM</i> <br /> Description </li>
   
   <li> <b>GBPUSD FX Profiling</b> - <i>Data Storytelling</i> <br /> Description </li>
+  
+  <li> <b>Growth Hacking</b> - <i>Data Driven Growth<i> <br /> Description </li>
+
 
 
 
