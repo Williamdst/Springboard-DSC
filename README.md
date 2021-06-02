@@ -30,6 +30,9 @@ September 2020 Cohort
   <li> <b>Cosine Similarity</b> - <i>Application of Distance Measures II</i> <br /> Description </li>
   
   <li> <b>Wine Customer Segmentation</b> - <i>Clustering</i> <br /> Description </li>
+  
+  <li> <b>Featuretools</b> - <i>Automated Feature Engineering</i> <br /> Description </li>
+
 
 
 
