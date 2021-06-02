@@ -32,6 +32,11 @@ September 2020 Cohort
   <li> <b>Wine Customer Segmentation</b> - <i>Clustering</i> <br /> Description </li>
   
   <li> <b>Featuretools</b> - <i>Automated Feature Engineering</i> <br /> Description </li>
+  
+  <li> <b>Pima Indian Diabetes Dataset </b> - <i>Model Optimization I: Grid Search Optimization - KNN</i> <br /> Description </li>
+  
+  <li> <b>Flight Departures Dataset</b> - <i>Model Optimization II: Bayesian Optimization - LightGBM</i> <br /> Description </li>
+
 
 
 
