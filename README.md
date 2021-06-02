@@ -39,7 +39,11 @@ September 2020 Cohort
   
   <li> <b>GBPUSD FX Profiling</b> - <i>Data Storytelling</i> <br /> Description </li>
   
-  <li> <b>Growth Hacking</b> - <i>Data Driven Growth<i> <br /> Description </li>
+  <li> <b>Growth Hacking</b> - <i>Data Driven Growth</i> <br /> Description </li>
+  
+  <li> <b>Introduction to Spark SQL in Python</b> - <i> Big Data Technologies</i> <br /> Description </li>
+
+    
 
 
 
