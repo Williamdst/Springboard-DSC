@@ -24,6 +24,9 @@ In this part, sales was predicted by using time series forecasting data and the 
 </ol>
 
 <b>Part 7: Market Response Models </b><br />
-Customers have been segmented, their lifetime value has been predicted, and sales have been predicted as well. The next natural question is how to increase sales, specifically do offeres increase conversion and if yes what kind of offer performs best on what segment of customers. In this part I had general data on customers combined with the results of a marketing campaign. The marketing data showed which type of coupon the customer used in the past (if any), which offer was sent to them, and if they converted based on the offer sent. 
+Customers have been segmented, their lifetime value has been predicted, and sales have been predicted as well. The next natural question is how to increase sales, specifically do offeres increase conversion and if yes what kind of offer performs best on what segment of customers. In this part I had general data on customers combined with the results of a marketing campaign. The marketing data showed which type of coupon the customer used in the past (if any), which offer was sent to them, and if they converted based on the offer sent. A model was built to predict the probability of conversion and the resuting uptick in orders and revenue. The results were compared to the actual conversion and its uptick in orders and revenue.
+
+<b>Part 8: Uplift Modeling</b><br />
+
 
 <h2>Reflection</h2>
