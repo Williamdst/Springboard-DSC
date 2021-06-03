@@ -6,8 +6,10 @@ In the first part I had information from an online retail store and used the "No
   <li> New Customer Ratio </li>
   <li> Cohort Based Retention Rate </li>
 </ul>
-<br> </br>
 
-<b>Part 2: Customer Segmentation</b><br />
+<b>Part 2: Customer Segmentation</b><br /> 
+In this part I used the same data to do a Recency, Frequency, Monetary customer segmentation. For each category I used a simple KMeans with 4 clusters to determine the segment. Then for each customer they got a overall score based on the summation of each cluster. <br /> 
+
+<b>Part 3: Customer Lifetime Value Prediction</b><br />
 
 <h2>Reflection</h2>
