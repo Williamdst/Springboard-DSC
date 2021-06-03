@@ -1,4 +1,4 @@
-<h2>Introduction to Spark SQL in Python - <i> Big Data Technologies</i> </h2>
+<h2>Big Data Technologies - <i>Introduction to Spark SQL in Python</i> </h2>
 PySpark is the Python API written in python to support Apache Spark. Apache Spark is a distributed framework that can handle Big Data analysis. Spark is basically a computational engine, that works with huge sets of data by processing them in parallel and batch systems. <br> </br>
 
 In this case study I learned about Spark Dataframes and how to do basic operations such as filtering and aggregations using the "built-in" functions as well as SQL. From there I looked at basic EDA and applied machine learning on the dataframes. 
