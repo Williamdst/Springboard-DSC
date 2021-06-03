@@ -7,5 +7,5 @@ The fundamental goal of statistical modeling is capturing the way in which the v
 
 <h2> Reflection </h2>
 <ol>
-  </li>
+  <li> The two chapters from this LinkedIn Learning course showed me how to implement statistical ideas in Python.</li>
 </ol>
