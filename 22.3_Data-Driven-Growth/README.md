@@ -34,7 +34,7 @@ Uplift modeling is a predictive technique that directly models the incremental i
   <li><strike>Control Responders (<i>Sure Things</i>)</strike>: Customers that are going to buy something regardless of what you do.</li>
   <li><b>Control Nonresponders (<i>Sleeping Dogs</i>)</b>: Customers that will not purchase anything if they don’t receive an offer. <i>You have to dangle a treat in front of them to "wake" them up.</i></li>
 </ol>
-The idea behind uplift modeling is to give customers an overall uplift score based on the predicted probabilites of the class labels. Then determine the potential uptick in orders and revenue for a specific discount on a specific range of uplift scores (<i>Typically a high or low uplift grouping based on some cutoff value </i>).
+The idea behind uplift modeling is to give customers an overall uplift score based on the predicted probabilites of the class labels. Then determine the potential uptick in orders and revenue for a specific discount on a specific range of uplift scores (<i>Typically a high or low uplift grouping based on some cutoff value </i>).<br> </br>
 
 <b>Part 9: A/B Testing</b><br />
 
