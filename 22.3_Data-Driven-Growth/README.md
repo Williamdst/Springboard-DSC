@@ -36,6 +36,8 @@ Uplift modeling is a predictive technique that directly models the incremental i
 </ol>
 The idea behind uplift modeling is to give customers an overall uplift score based on the predicted probabilites of the class labels. Then determine the potential uptick in orders and revenue for a specific discount on a specific range of uplift scores (<i>Typically a high or low uplift grouping based on some cutoff value </i>).<br> </br>
 
-<b>Part 9: A/B Testing</b><br />
-
 <h2>Reflection</h2>
+<ol>
+  <li>These assignments showed me <b>HOW</b> data can be used to grow a business via data driven decisions.</li>
+  <li>Although the data sources were spoon fed to me in CSV files, I now know what types of data I need for specific decisions. I can use this knowledge to guide how I would go about combining a company's existign data sources and I could be a consultant in regards to what data that should be gathering.</li>
+</ol>
