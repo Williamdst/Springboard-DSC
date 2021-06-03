@@ -41,7 +41,7 @@ September 2020 Cohort
   
   <li> <b>Growth Hacking</b> - <i>Data Driven Growth</i> <br /> Description </li>
   
-  <li> <b>Introduction to Spark SQL in Python</b> - <i> Big Data Technologies</i> <br /> Description </li>
+  <li> <b>Big Data Technologies</b> - <i>Introduction to Spark SQL in Python</i> <br /> Description </li>
   
   <li> <b>Future User Adoption</b> - <i>Take Home Challenge I</i> <br /> Description </li>
   
