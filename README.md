@@ -44,6 +44,9 @@ September 2020 Cohort
   <li> <b>Introduction to Spark SQL in Python</b> - <i> Big Data Technologies</i> <br /> Description </li>
   
   <li> <b>Future User Adoption</b> - <i>Take Home Challenge I</i> <br /> Description </li>
+  
+  <li> <b>Ultimate Data Scientist</b> - <i>Take Home Challenge II</i> <br /> Description </li>
+
 
 
     
