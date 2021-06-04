@@ -3,11 +3,11 @@ September 2020 Cohort
 
 <h2> Table of Contents </h2>
 <ul>
-  <li> <b>London Housing</b> - <i>The Basics of Data Science</i> <br /> Description </li>
+  <li> <b>London Housing</b> - <i>The Basics of Data Science</i> <br /> Simple workflow involving loading, cleaning, formatting, exploring, and visualizing data to answer a data analytics question.</li>
   
-  <li> <b>API Mini Project</b> - <i>APIs & The Python Standard Library</i> <br /> Description </li>
+  <li> <b>API Mini Project</b> - <i>APIs & The Python Standard Library</i> <br /> Leveraging APIs to source data from different platforms. </li>
   
-  <li> <b>SQL Country Club</b> - <i>Relational Databases & SQL</i> <br /> Description </li>
+  <li> <b>SQL Country Club</b> - <i>Relational Databases & SQL</i> <br /> Query data from relational databases through python packages and management tools such as pgAdmin. </li>
   
   <li> <b>Frequentist Inference</b> - <i>Statistical Inference in Python</i> <br /> Description </li>
    
@@ -33,7 +33,7 @@ September 2020 Cohort
   
   <li> <b>Featuretools</b> - <i>Automated Feature Engineering</i> <br /> Description </li>
   
-  <li> <b>Pima Indian Diabetes Dataset </b> - <i>Model Optimization I: Grid Search Optimization - KNN</i> <br /> Description </li>
+  <li> <b>Pima Indian Diabetes Dataset </b> - <i>Model Optimization I: Grid Search Optimization - KNN</i> <br /> Description</li>
   
   <li> <b>Flight Departures Dataset</b> - <i>Model Optimization II: Bayesian Optimization - LightGBM</i> <br /> Description </li>
   
