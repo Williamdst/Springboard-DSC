@@ -1,5 +1,5 @@
 <h2> London Housing - <i>Basics of Data Science</i> &nbsp;
-  <a href="">
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/04.3_London-Housing/Unit%204%20Challenge%20-%20Tier%203.ipynb">
     <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
   </a>
 </h2>
