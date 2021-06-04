@@ -1,7 +1,7 @@
 <h2> London Housing - <i>Basics of Data Science</i></h2>
 Combining simple python data structures and ideas such as lists and functions combined with the Pandas package I got my first taste of the Data Science through this case study. I had to load, clean, format, explore, and visulize a dataset of London Housing prices over two decades. The question that I was trying to answer is: <br> </br>
 
-<p align='center'> <b>Which borough of London has seen the greatest increase in housing prices over the last two decades.</b> </p>
+<p align='center'> <b>Which borough of London has seen the greatest increase in housing prices over the last two decades?</b> </p>
 
 <h2> Reflection</h2>
 
