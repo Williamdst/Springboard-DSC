@@ -1,4 +1,8 @@
-<h2>Ultimate Data Scientist - <i>Take Home Challenge II</i></h2>
+<h2>Ultimate Data Scientist - <i>Take Home Challenge II</i>
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/26.2_Ultimate-Technologies/Ultimate.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 <b>Part 1: User Logins</b><br />
 Aggregate login counts based on 15-minute time intervals, and visualize and describe the resulting time series of login counts in ways that best characterize the underlying patterns of the demand. <br> </br>
 
