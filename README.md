@@ -14,7 +14,7 @@
   
   <li> 
     <b>API Mini Project</b> - <i>APIs & The Python Standard Library</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/07.2_API-Project">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -23,7 +23,7 @@
   
   <li> 
     <b>SQL Country Club</b> - <i>Relational Databases & SQL</i> 
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/08.3_SQL-Country-Club">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -35,7 +35,7 @@
   <h3 align='left'>Statistics</h3>
   <li> 
     <b>Frequentist Inference</b> - <i>Statistical Inference in Python</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/11.1_Freq-Inference">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -44,7 +44,7 @@
    
   <li> 
     <b>Statistical Modeling</b> - <i>Python Statistics Essential Training</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/11.1_Statistical-Modelling">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -53,7 +53,7 @@
   
   <li> 
     <b>App Store Integration</b> - <i>Hypothesis Testing in Python</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/11.3_Integrating-Apps">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -65,7 +65,7 @@
   <h3 align='left'>Supervised Machine Learning</h3>
   <li> 
     <b>The Red Wine Dataset</b> - <i>Linear Regression</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/11.4_Linear-Regression">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -74,7 +74,7 @@
   
   <li> 
     <b>Logistic Regression</b> - <i>Introduction to Classification</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/14.2_Logistic-Regression">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -83,7 +83,7 @@
   
   <li> 
     <b>Coffee Diner Horizontal Expansion</b> - <i>Decision Trees</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/14.3_RR-Diner-Coffee">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -92,7 +92,7 @@
   
   <li> 
     <b>COVID-19</b> - <i>Ensemble Methods I: Bagging - Random Forests</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/14.4_Covid-Forest">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -101,7 +101,7 @@
   
   <li> 
     <b>The Titanic Dataset</b> - <i>Ensemble Methods II: Boosting - Gradient Boosting </i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/14.5_Gradient-Boosting">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -113,7 +113,7 @@
   <h3 align='left'>Unsupervised Machine Learning</h3>
   <li> 
     <b>Manhattan & Euclidean Distances</b> - <i>Application of Distance Measures I</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/15.2_Calculating-Distances">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -122,7 +122,7 @@
   
   <li> 
     <b>Cosine Similarity</b> - <i>Application of Distance Measures II</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/15.5_Cosine-Similarity">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -131,7 +131,7 @@
   
   <li> 
     <b>Wine Customer Segmentation</b> - <i>Clustering</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/15.6_Customer-Segmentation">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> Using the outcome of different marketing campaigns, group similar minded customers together. 
@@ -142,7 +142,7 @@
   <h3 align='left'>Advanced Machine Learning Techniques</h3>
   <li> 
     <b>Featuretools</b> - <i>Automated Feature Engineering</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/16.2_Featuretools">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -151,7 +151,7 @@
   
   <li> 
     <b>Pima Indian Diabetes Dataset </b> - <i>Model Optimization I: Grid Search Optimization - KNN</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/18.2_KNN-Grid-Search">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -160,7 +160,7 @@
   
   <li> 
     <b>Flight Departures Dataset</b> - <i>Model Optimization II: Bayesian Optimization - LightGBM</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/18.2_Bayesian-Optimization">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -172,7 +172,7 @@
   <h3 align='left'>Business Intelligence</h3>
   <li> 
     <b>GBPUSD FX Profiling</b> - <i>Data Storytelling</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/20.3_Dataset-Analysis">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -181,7 +181,7 @@
   
   <li> 
     <b>Growth Hacking</b> - <i>Data Driven Growth</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/22.3_Data-Driven-Growth">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -190,7 +190,7 @@
   
   <li> 
     <b>Big Data Technologies</b> - <i>Introduction to Spark SQL in Python</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/25.2_Apache-Spark">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -199,7 +199,7 @@
   
   <li> 
     <b>Future User Adoption</b> - <i>Take Home Challenge I</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/26.2_Relax-Inc">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
@@ -208,7 +208,7 @@
   
   <li> 
     <b>Ultimate Data Scientist</b> - <i>Take Home Challenge II</i> &nbsp;
-    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+    <a href="https://github.com/Williamdst/Springboard-DSC/tree/master/Coursework/26.2_Ultimate-Technologies">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
     <br /> 
