@@ -31,11 +31,11 @@ September 2020 Cohort
   
   
   <h3 align='left'>Testing</h3>
-  <li> <b>Manhattan & Euclidean Distances</b> - <i>Application of Distance Measures I</i> <br /> Description </li>
+  <li> <b>Manhattan & Euclidean Distances</b> - <i>Application of Distance Measures I</i> <br /> Preparing for Unsupervised Learning by understanding distance measures. </li>
   
-  <li> <b>Cosine Similarity</b> - <i>Application of Distance Measures II</i> <br /> Description </li>
+  <li> <b>Cosine Similarity</b> - <i>Application of Distance Measures II</i> <br /> Alternative ways to think about similarity. </li>
   
-  <li> <b>Wine Customer Segmentation</b> - <i>Clustering</i> <br /> Description <hr></li>
+  <li> <b>Wine Customer Segmentation</b> - <i>Clustering</i> <br /> Using the outcome of different marketing campaigns, group similar minded customers together. <hr></li>
   
   
   <h3 align='left'>Testing</h3>
