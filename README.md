@@ -3,7 +3,7 @@
   
   <h3 align='left'>The Basic Tools for Dealing w/ Data</h3>
   
-  <li> <b>London Housing</b> - <i>The Basics of Data Science</i> 
+  <li> <b>London Housing</b> - <i>The Basics of Data Science</i> &nbsp;
     <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
         <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
     </a>
