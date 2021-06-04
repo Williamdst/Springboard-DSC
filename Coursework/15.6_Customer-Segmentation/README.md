@@ -1,4 +1,8 @@
-<h2>Wine Customer Segmentation - <i>Clustering</i> </h2>
+<h2>Wine Customer Segmentation - <i>Clustering</i> 
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/15.6_Customer-Segmentation/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 This case study invovled a wine retailer and the data generate from different marketing campaigns. They had an excel file that contained two sheets. One sheet were the details of the marketing campaigns that they sent out to customers. It had details such as the time of year and the variety of the wine featured. The other sheet contained which customers responded to which offers and made a purchase. The objective was to use the responses to group similar minded customers together.
 
 <h2>Reflection</h2>
