@@ -55,9 +55,9 @@ September 2020 Cohort
   
   
   <h3 align='left'>Testing</h3>
-  <li> <b>Future User Adoption</b> - <i>Take Home Challenge I</i> <br /> Description </li>
+  <li> <b>Future User Adoption</b> - <i>Take Home Challenge I</i> <br /> Determine the most important factors realated with user adoption. </li>
   
-  <li> <b>Ultimate Data Scientist</b> - <i>Take Home Challenge II</i> <br /> Description </li>
+  <li> <b>Ultimate Data Scientist</b> - <i>Take Home Challenge II</i> <br /> Complete a task from segments of the Data Science field. Analze user logins to uncover patterns of demand, design an experiment that could test the effectiveness of a business intiative, and build a predictive model to determine long-term rider retention. </li>
 
 
 
