@@ -1,5 +1,4 @@
 <h2>Springboard Data Science Bootcamp - <i>Business Intelligence Specialization</i></h2>
-<h2> Table of Contents </h2>
 <ul>
   
   <h3 align='left'>The Basic Tools for Dealing w/ Data</h3>
