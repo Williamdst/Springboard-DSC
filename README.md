@@ -39,19 +39,19 @@ September 2020 Cohort
   
   
   <h3 align='left'>Testing</h3>
-  <li> <b>Featuretools</b> - <i>Automated Feature Engineering</i> <br /> Description </li>
+  <li> <b>Featuretools</b> - <i>Automated Feature Engineering</i> <br /> Automate the feature engineering process using advanced tools. </li>
   
-  <li> <b>Pima Indian Diabetes Dataset </b> - <i>Model Optimization I: Grid Search Optimization - KNN</i> <br /> Description</li>
+  <li> <b>Pima Indian Diabetes Dataset </b> - <i>Model Optimization I: Grid Search Optimization - KNN</i> <br /> Hyperparameter tune a KNN model using GridSearch. </li>
   
-  <li> <b>Flight Departures Dataset</b> - <i>Model Optimization II: Bayesian Optimization - LightGBM</i> <br /> Description <hr></li>
+  <li> <b>Flight Departures Dataset</b> - <i>Model Optimization II: Bayesian Optimization - LightGBM</i> <br /> Hyperparameter tune a LightGBM using Bayesian Optimzation.<hr></li>
   
   
   <h3 align='left'>Testing</h3>
-  <li> <b>GBPUSD FX Profiling</b> - <i>Data Storytelling</i> <br /> Description </li>
+  <li> <b>GBPUSD FX Profiling</b> - <i>Data Storytelling</i> <br /> Create a story around a dataset. Analyze it and write a report to be read by a diverse audience.</li>
   
-  <li> <b>Growth Hacking</b> - <i>Data Driven Growth</i> <br /> Description </li>
+  <li> <b>Growth Hacking</b> - <i>Data Driven Growth</i> <br /> Use a company's existing data store to create analyses that can help with growth and marketing. </li>
   
-  <li> <b>Big Data Technologies</b> - <i>Introduction to Spark SQL in Python</i> <br /> Description <hr></li>
+  <li> <b>Big Data Technologies</b> - <i>Introduction to Spark SQL in Python</i> <br /> Introduction to tools that can be used to work with the Big Data that will be encountered in the field.<hr></li>
   
   
   <h3 align='left'>Testing</h3>
