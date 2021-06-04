@@ -15,15 +15,15 @@ September 2020 Cohort
   
   <li> <b>App Store Integration</b> - <i>Hypothesis Testing in Python</i> <br /> Making software design decisions using data driven hypothesis testing. <hr></li>
   
-  <li> <b>The Red Wine Dataset</b> - <i>Linear Regression</i> <br /> Description </li>
+  <li> <b>The Red Wine Dataset</b> - <i>Linear Regression</i> <br /> Build a series of Linear Regression models to predict alcohol levels in wine and choose one by evaluating the models' performance.</li>
   
-  <li> <b>Logistic Regression</b> - <i>Introduction to Classification</i> <br /> Description </li>
+  <li> <b>Logistic Regression</b> - <i>Introduction to Classification</i> <br /> Understand the mechanics of Logistic Regression and build a model that predicts gender from weight and height data. </li>
   
-  <li> <b>Coffee Diner Horizontal Expansion</b> - <i>Decision Trees</i> <br /> Description </li>
+  <li> <b>Coffee Diner Horizontal Expansion</b> - <i>Decision Trees</i> <br /> Use Decision Trees to produce an analysis that can be used when considering if a horizontal expansion is beneficial to a business. </li>
   
-  <li> <b>COVID-19</b> - <i>Ensemble Methods I: Bagging - Random Forests</i> <br /> Description </li>
+  <li> <b>COVID-19</b> - <i>Ensemble Methods I: Bagging - Random Forests</i> <br /> Create a Random Forest model to build a classifier to predict the "state" of a patient. </li>
   
-  <li> <b>The Titanic Dataset</b> - <i>Ensemble Methods II: Boosting - Gradient Boosting </i> <br /> Description <hr></li>
+  <li> <b>The Titanic Dataset</b> - <i>Ensemble Methods II: Boosting - Gradient Boosting </i> <br /> The simple, but iconic Titanic dataset was used to introduce Gradient Boosting algorithms.<hr></li>
   
   <li> <b>Manhattan & Euclidean Distances</b> - <i>Application of Distance Measures I</i> <br /> Description </li>
   
