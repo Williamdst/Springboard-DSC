@@ -1,4 +1,8 @@
-<h2> The Red Wine Dataset - <i>Linear Regression</i> </h2>
+<h2> The Red Wine Dataset - <i>Linear Regression</i> 
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/11.4_Linear-Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 The aim is to use exploratory data analysis (EDA) and regression to predict alcohol levels in wine with a model that's as accurate as possible. The core purpose of this case study was to see how linear regression can be implemented in python using both Scikit and Statsmodels packages as well as how to evaluate those models after the fact. The four modles that were built were:
 <ul>
   <li> Univariate Linear Regression (<i>SciKit</i>) </li>
