@@ -1,4 +1,8 @@
-<h2> API Mini Project - <i>APIs & The Python Standard Library</i> </h2>
+<h2> API Mini Project - <i>APIs & The Python Standard Library</i> &nbsp;
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/07.2_API-Project/api_data_wrangling_mini_project.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 This mini project focused on equities data from the Frankfurt Stock Exhange (FSE) on the Quandl platform. Specifically a company called Carl Zeiss Meditec, which manufactures tools for eye examinations, as well as medical lasers for laser eye surgery. To get the data, APIs were introduced and I was shown how you can leverage a platforms API to get data. Additionally, the heavy lifting that Pandas does was stripped away and everything was done only using the Python Standard Library and its native data structures. Some sample questions asked were: 
 <br />
 <ul>
