@@ -1,4 +1,8 @@
-<h2> Cosine Similarity - <i>Applications of Distance Measures II</i></h2>
+<h2> Cosine Similarity - <i>Applications of Distance Measures II</i>
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/15.5_Cosine-Similarity/Cosine_Similarity_Case_Study.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 Cosine similarity is a measure of similarity between two non-zero vectors of an inner product space that measures the cosine of the angle between them. Similarity measures have a multiude of uses in machine learning projects; they come in handy when matching strings, measuring distance, and extracting features. This similarity measurement is particularly concerned with orientation, rather than magnitude. In this case study, I used the cosine similarity to compare both numeric data within a plane and text dataset for string matching.
 
 <h2>Reflection </h2>
