@@ -2,7 +2,13 @@
 <ul>
   
   <h3 align='left'>The Basic Tools for Dealing w/ Data</h3>
-  <li> <b>London Housing</b> - <i>The Basics of Data Science</i> <br /> Simple workflow involving loading, cleaning, formatting, exploring, and visualizing data to answer a data analytics question.</li>
+  
+  <li> <b>London Housing</b> - <i>The Basics of Data Science</i> 
+    <a href="https://nbviewer.jupyter.org/github/Williamdst/Bike-Share-USA/blob/main/BSU-Report.ipynb">
+        <img align='center' src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width='70'/>
+    </a>
+    <br /> Simple workflow involving loading, cleaning, formatting, exploring, and visualizing data to answer a data analytics question.
+  </li>
   
   <li> <b>API Mini Project</b> - <i>APIs & The Python Standard Library</i> <br /> Leveraging APIs to source data from different platforms. </li>
   
