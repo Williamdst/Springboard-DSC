@@ -1,4 +1,8 @@
-<h2> The Titanic Dataset - <i>Ensemble Methods II: Boosting - Gradient Boosting </i> </h2>
+<h2> The Titanic Dataset - <i>Ensemble Methods II: Boosting - Gradient Boosting </i> 
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/14.5_Gradient-Boosting/Gradient%20Boosting%20Case%20Study.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 Boosting works in the same spirit as bagging in the sense that we build a family of models that are aggregated to obtain a strong learner. In boosting models are trained in sequence and each model in the sequence is fitted giving more importance to observation in the dataset that were badly handled by the previous models in the sequence. Each new model focuses its efforts on the most difficult observations to fit from previous models. Each time we run a decision tree, we extract the residuals. Then we run a new decision tree, using those residuals as the outcome to be predicted. After reaching a stopping point, we add together the predicted values from all of the decision trees to create the final gradient boosted prediction. <br> </br>
 
 <p align='center'> <i> You shoot an arrow at a bullseye and the wind messes up the shot. However, depending on where the arrow lands you now know, approximately, how the wind is blowing and how it will mess up your shot. With this new knowledge you can adjust your next shot to better hit the target. </i> </p>
