@@ -9,11 +9,11 @@ September 2020 Cohort
   
   <li> <b>SQL Country Club</b> - <i>Relational Databases & SQL</i> <br /> Query data from relational databases through python packages and management tools such as pgAdmin. <hr> </li>
   
-  <li> <b>Frequentist Inference</b> - <i>Statistical Inference in Python</i> <br /> Description </li>
+  <li> <b>Frequentist Inference</b> - <i>Statistical Inference in Python</i> <br /> Understanding the basics of staistical inference </li>
    
-  <li> <b>Statistical Modeling</b> - <i>Python Statistics Essential Training</i> <br /> Description </li>
+  <li> <b>Statistical Modeling</b> - <i>Python Statistics Essential Training</i> <br /> Builing on the basics of statistical inference and adding statistical modeling. </li>
   
-  <li> <b>App Store Integration</b> - <i>Hypothesis Testing in Python</i> <br /> Description <hr></li>
+  <li> <b>App Store Integration</b> - <i>Hypothesis Testing in Python</i> <br /> Making software design decisions using data driven hypothesis testing. <hr></li>
   
   <li> <b>The Red Wine Dataset</b> - <i>Linear Regression</i> <br /> Description </li>
   
