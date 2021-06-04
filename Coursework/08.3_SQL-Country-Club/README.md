@@ -1,4 +1,8 @@
-<h2> SQL Country Club - <i> Relational Databases & SQL </i> </h2>
+<h2> SQL Country Club - <i> Relational Databases & SQL</i> &nbsp;
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/08.3_SQL-Country-Club/SQL-Assignment.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 In this assignment I worked with a relational database and used SQL to answer data analytics questions. The database represented a Country Club and the three tables were: Facilites, Members, & Bookings. The Bookings table listed which member booked which facility and for how long. <br> </br>
 
 Some questions had to be answered by integrating the connection and the query into a python script using packages such as psycopg, sqlite3, and mysql.connector. Other questions needed to be answered directly using management tools such as PHPMyAdmin and pgAdmin. Some smaple questions asked were:
