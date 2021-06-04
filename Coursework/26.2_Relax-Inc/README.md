@@ -1,4 +1,8 @@
-<h2>Future User Adoption - <i>Take Home Challenge I</i></h2>
+<h2>Future User Adoption - <i>Take Home Challenge I</i>
+  <a href="https://nbviewer.jupyter.org/github/Williamdst/Springboard-DSC/blob/master/Coursework/26.2_Relax-Inc/Relax-Take-Home-Challenge.ipynb">
+    <img align='center' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width='53' />
+  </a>
+</h2>
 In this case study I had to use the tools learned in the course to identify which factors predict future user adoption, where an "adopted user" is one who logs into the product three separate days in a least one seven-day period. There were two datasets, one that had the information about users and another that had a row for every instance a user logged in to the platform. <br> </br>
 
 The model that I selected had an F1-score of 0.96 and was a Logistic Regression model using StratifiedKFolding to manage the class imbalance present in the dataset. The factors that were most positively related to user adoption were:
